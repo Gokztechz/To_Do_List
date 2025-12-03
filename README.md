@@ -1,7 +1,7 @@
 # Ex03 To-Do List using JavaScript
 ## Name: GOKUL SHARAN R
 ## Reg No: 212223040052
-## Date: 17/09/2025
+## Date: 08/09/2025
 
 ## AIM
 To create a To-do Application with all features using JavaScript.
